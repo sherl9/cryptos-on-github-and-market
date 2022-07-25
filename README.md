@@ -1,4 +1,4 @@
-# cryptocurrencies-on-github-and-market
+# Cryptocurrencies on Github and Market
 A data analysis project aims at finding the relationship between the GitHub insights of popular cryptocurrencies and their market metrics.
 
 # Projects in scope
